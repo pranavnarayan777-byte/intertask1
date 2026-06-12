@@ -1,2 +1,2 @@
 # intertask1
-about my project
+Task1 submission for AI Internship - Machine Learning Project
